@@ -2,37 +2,25 @@
   {
     "path": "/rina-tenitska/selene/actions",
     "title": "Actions · rina-tenitska/selene",
-    "count": 64,
+    "count": 35,
     "uniques": 1
   },
   {
     "path": "/rina-tenitska/selene",
     "title": "rina-tenitska/selene: User-oriented Web UI browser tests in Python",
-    "count": 28,
-    "uniques": 1
-  },
-  {
-    "path": "/rina-tenitska/selene/tree/issue_309_type_waits_for_no_overlay",
-    "title": "rina-tenitska/selene at issue_309_type_waits_for_no_overlay",
-    "count": 13,
+    "count": 10,
     "uniques": 1
   },
   {
     "path": "/rina-tenitska/selene/actions/runs/815944370",
     "title": "gh_309: Type waits for no overlay · rina-tenitska/selene@215f72d",
-    "count": 10,
+    "count": 5,
     "uniques": 1
   },
   {
     "path": "/rina-tenitska/selene/actions/runs/820256553",
     "title": "gh_309_type_waits_for_no_overlay · rina-tenitska/selene@c838f9c",
     "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/rina-tenitska/selene/actions/runs/815849098",
-    "title": "Issue 309 type waits for no overlay · rina-tenitska/selene@2d687c1",
-    "count": 4,
     "uniques": 1
   },
   {
@@ -48,15 +36,27 @@
     "uniques": 1
   },
   {
-    "path": "/rina-tenitska/selene/pulls",
-    "title": "Pull requests · rina-tenitska/selene",
-    "count": 4,
+    "path": "/rina-tenitska/selene/actions/runs/822060125",
+    "title": "Merge pull request #343 from aleksandr-kotlyar/codecov-up-1.5.0 · rina-tenits...",
+    "count": 3,
     "uniques": 1
   },
   {
-    "path": "/rina-tenitska/selene/actions/runs/815724311",
+    "path": "/rina-tenitska/selene/tree/issue-309_type_waits_for_no_overlay",
+    "title": "rina-tenitska/selene at issue-309_type_waits_for_no_overlay",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/rina-tenitska/selene/actions/runs/818752189",
     "title": "bump version up to 2.0.0a38 · rina-tenitska/selene@768d919",
-    "count": 3,
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/rina-tenitska/selene/actions/runs/820348425",
+    "title": "gh_309_type_waits_for_no_overlay · rina-tenitska/selene@bc5c696",
+    "count": 2,
     "uniques": 1
   }
 ]
