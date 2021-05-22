@@ -1,23 +1,5 @@
 [
   {
-    "path": "/rina-tenitska/selene/actions/runs/822060125",
-    "title": "Merge pull request #343 from aleksandr-kotlyar/codecov-up-1.5.0 · rina-tenits...",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/rina-tenitska/selene",
-    "title": "rina-tenitska/selene: User-oriented Web UI browser tests in Python",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/rina-tenitska/selene/actions",
-    "title": "Actions · rina-tenitska/selene",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/rina-tenitska/selene/tree/issue-309_type_waits_for_no_overlay",
     "title": "rina-tenitska/selene at issue-309_type_waits_for_no_overlay",
     "count": 1,
