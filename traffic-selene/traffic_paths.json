@@ -6,30 +6,6 @@
     "uniques": 2
   },
   {
-    "path": "/rina-tenitska/selene/blob/38722db734b1a3567d1c8a00bde19f66e607da51/tests/integration/collection__filtered_by_condition__no_waiting_search_test.py",
-    "title": "selene/collection__filtered_by_condition__no_waiting_search_test.py at 38722d...",
-    "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/rina-tenitska/selene/tree/38722db734b1a3567d1c8a00bde19f66e607da51",
-    "title": "rina-tenitska/selene at 38722db734b1a3567d1c8a00bde19f66e607da51",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/rina-tenitska/selene/tree/38722db734b1a3567d1c8a00bde19f66e607da51/tests",
-    "title": "selene/tests at 38722db734b1a3567d1c8a00bde19f66e607da51 · rina-tenitska/selene",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/rina-tenitska/selene/tree/38722db734b1a3567d1c8a00bde19f66e607da51/tests/integration",
-    "title": "selene/tests/integration at 38722db734b1a3567d1c8a00bde19f66e607da51 · rina-t...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/rina-tenitska/selene/blob/master/tests/acceptance/selene_element_test.py",
     "title": "selene/selene_element_test.py at master · rina-tenitska/selene",
     "count": 1,
@@ -56,6 +32,30 @@
   {
     "path": "/rina-tenitska/selene/commits/master",
     "title": "Commits · rina-tenitska/selene",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/rina-tenitska/selene/pulls",
+    "title": "Pull requests · rina-tenitska/selene",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/rina-tenitska/selene/tree/issue_321_improve_test_structure",
+    "title": "rina-tenitska/selene at issue_321_improve_test_structure",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/rina-tenitska/selene/tree/master/selene",
+    "title": "selene/selene at master · rina-tenitska/selene",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/rina-tenitska/selene/tree/master/tests",
+    "title": "selene/tests at master · rina-tenitska/selene",
     "count": 1,
     "uniques": 1
   }
