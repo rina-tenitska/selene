@@ -2,8 +2,8 @@
   {
     "path": "/rina-tenitska/selene",
     "title": "rina-tenitska/selene: User-oriented Web UI browser tests in Python",
-    "count": 7,
-    "uniques": 2
+    "count": 5,
+    "uniques": 1
   },
   {
     "path": "/rina-tenitska/selene/blob/master/tests/acceptance/selene_element_test.py",
@@ -14,12 +14,6 @@
   {
     "path": "/rina-tenitska/selene/blob/master/tests/base_test.py",
     "title": "selene/base_test.py at master · rina-tenitska/selene",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/rina-tenitska/selene/branches",
-    "title": "Branches · rina-tenitska/selene",
     "count": 1,
     "uniques": 1
   },
@@ -36,18 +30,6 @@
     "uniques": 1
   },
   {
-    "path": "/rina-tenitska/selene/pulls",
-    "title": "Pull requests · rina-tenitska/selene",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/rina-tenitska/selene/tree/issue_321_improve_test_structure",
-    "title": "rina-tenitska/selene at issue_321_improve_test_structure",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/rina-tenitska/selene/tree/master/selene",
     "title": "selene/selene at master · rina-tenitska/selene",
     "count": 1,
@@ -56,6 +38,18 @@
   {
     "path": "/rina-tenitska/selene/tree/master/tests",
     "title": "selene/tests at master · rina-tenitska/selene",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/rina-tenitska/selene/tree/master/tests/acceptance",
+    "title": "selene/tests/acceptance at master · rina-tenitska/selene",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/rina-tenitska/selene/tree/master/tests_from_past",
+    "title": "selene/tests_from_past at master · rina-tenitska/selene",
     "count": 1,
     "uniques": 1
   }
